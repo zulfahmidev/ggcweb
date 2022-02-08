@@ -1,0 +1,14 @@
+<svg id="Logo_G" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="206.625" height="206.625" viewBox="0 0 206.625 206.625">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3385ff"/>
+      <stop offset="1" stop-color="#1556c7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f33"/>
+      <stop offset="1" stop-color="#c71515"/>
+    </linearGradient>
+  </defs>
+  <path id="Union_2" data-name="Union 2" d="M45.02,92.347v-.032A46.87,46.87,0,0,1,13.694,78.823,46,46,0,0,1,3.674,64.147a45.8,45.8,0,0,1,0-35.945,46.029,46.029,0,0,1,10.02-14.677A46.86,46.86,0,0,1,43.865.087V0h93.5a12.7,12.7,0,0,1,0,25.4H44.83a20.934,20.934,0,0,0,.189,41.579v-.023H71.569a12.7,12.7,0,1,1,0,25.4Z" transform="translate(56.562 56.562)" fill="url(#linear-gradient)"/>
+  <path id="Union_1" data-name="Union 1" d="M102.736,206.625v-.006A103.841,103.841,0,0,1,8.165,143.527a103.114,103.114,0,0,1,0-80.428A103.462,103.462,0,0,1,30.429,30.26,103.845,103.845,0,0,1,102.736.006V0h25.4a12.7,12.7,0,0,1,0,25.4H103.89v0c-.172,0-.36,0-.577,0a77.917,77.917,0,0,0,0,155.834l.577,0v0h24.242a12.7,12.7,0,0,1,0,25.394Z" transform="translate(0)" fill="url(#linear-gradient-2)"/>
+</svg>
