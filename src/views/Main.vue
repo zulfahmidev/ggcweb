@@ -2,6 +2,7 @@
     <main class="flex flex-col flex-1 gap-6 px-8 py-4 max-h-screen overflow-y-auto">
         <Topbar/>
         <hr class="border-gray-700">
+        
         <router-view></router-view>
     </main>
 </template>
